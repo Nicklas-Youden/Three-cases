@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consoleapps", "LocalFootballHoligans\Consoleapps.csproj", "{9472FA06-E672-4BE0-8585-6221500B87FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrarys", "ClassLibrarys\ClassLibrarys.csproj", "{0BB8E106-A121-418B-809B-4D77001B872C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9472FA06-E672-4BE0-8585-6221500B87FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9472FA06-E672-4BE0-8585-6221500B87FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9472FA06-E672-4BE0-8585-6221500B87FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9472FA06-E672-4BE0-8585-6221500B87FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB8E106-A121-418B-809B-4D77001B872C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB8E106-A121-418B-809B-4D77001B872C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB8E106-A121-418B-809B-4D77001B872C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB8E106-A121-418B-809B-4D77001B872C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54393062-F465-4B82-A27C-4BDA7B85E6BB}
+	EndGlobalSection
+EndGlobal
